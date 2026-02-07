@@ -1,17 +1,17 @@
 {
   "ciudad": {
-    "previa": "2231",
-    "primera": "1123",
-    "matutina": "1125",
-    "vespertina": "5523",
-    "nocturna": "1197"
+    "previa": "1232",
+    "primera": "",
+    "matutina": "",
+    "vespertina": "",
+    "nocturna": ""
   },
   "provincia": {
-    "previa": "1456",
-    "primera": "2346",
-    "matutina": "7563",
-    "vespertina": "3757",
-    "nocturna": "2355"
+    "previa": "",
+    "primera": "",
+    "matutina": "",
+    "vespertina": "",
+    "nocturna": ""
   },
   "cordoba": {
     "previa": "",
@@ -49,4 +49,3 @@
     "nocturna": ""
   }
 }
-
