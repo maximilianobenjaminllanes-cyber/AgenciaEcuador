@@ -1,7 +1,7 @@
 {
   "ciudad": {
     "previa": "2234",
-    "primera": "",
+    "primera": "1132",
     "matutina": "",
     "vespertina": "",
     "nocturna": ""
@@ -49,4 +49,5 @@
     "nocturna": ""
   }
 }
+
 
