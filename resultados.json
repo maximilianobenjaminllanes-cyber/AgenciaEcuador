@@ -1,35 +1,35 @@
 {
   "ciudad": {
-    "previa": "1232",
-    "primera": "",
+    "previa": "2791",
+    "primera": "4805",
     "matutina": "",
     "vespertina": "",
     "nocturna": ""
   },
   "provincia": {
-    "previa": "",
-    "primera": "",
+    "previa": "1307",
+    "primera": "2602",
     "matutina": "",
     "vespertina": "",
     "nocturna": ""
   },
   "cordoba": {
-    "previa": "",
-    "primera": "",
+    "previa": "0605",
+    "primera": "8306",
     "matutina": "",
     "vespertina": "",
     "nocturna": ""
   },
   "santa fe": {
-    "previa": "",
-    "primera": "",
+    "previa": "6428",
+    "primera": "9390",
     "matutina": "",
     "vespertina": "",
     "nocturna": ""
   },
   "entre rios": {
-    "previa": "",
-    "primera": "",
+    "previa": "5104",
+    "primera": "6607",
     "matutina": "",
     "vespertina": "",
     "nocturna": ""
@@ -42,8 +42,8 @@
     "nocturna": ""
   },
   "mendoza": {
-    "previa": "",
-    "primera": "",
+    "previa": "8059",
+    "primera": "4095",
     "matutina": "",
     "vespertina": "",
     "nocturna": ""
