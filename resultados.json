@@ -1,7 +1,9 @@
 {
+  "updatedAt": "2026-02-07T18:00:00",
+
   "ciudad": {
-    "previa": "2234",
-    "primera": "1132",
+    "previa": "",
+    "primera": "",
     "matutina": "",
     "vespertina": "",
     "nocturna": ""
@@ -49,5 +51,3 @@
     "nocturna": ""
   }
 }
-
-
